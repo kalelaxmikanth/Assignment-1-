@@ -1,0 +1,25 @@
+ // 1 ASSIGNMENT
+// question 1
+// by using \n we can print in different lines
+cout<<"physics\n";
+cout<<"wallah\n";
+//  output:physics
+//         wallah
+
+// question 2
+
+cout<<5+5<<endl;
+// output: 10
+// question 3
+// int takes four bytes
+// bool takes 1 byte
+// float takes 4 bytes
+// question 4
+// output of the program is 6,4 
+// question 5
+
+ int circumference = 2 * 3.14 * 10;
+ cout<<circumference<<endl;
+//  output 62
+// question 6
+// _FLOAT and FLOAT can be a variable name
